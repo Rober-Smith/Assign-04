@@ -1,0 +1,26 @@
+#babba {
+  background-color: brown;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+.info {
+ background-color: firebrick;
+ color: white;
+ padding: 10px;
+}
+
+img {
+  float: right;
+}
+
+div {
+  border: 15px solid firebrick;
+  padding: 50px;
+  margin: 20px;
+}
+.background {
+ background-color: #E95C4B;
+ padding: 10px;
+}
