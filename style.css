@@ -6,9 +6,9 @@
 }
 
 .info {
- background-color: firebrick;
- color: white;
- padding: 10px;
+  background-color: firebrick;
+  color: white;
+  padding: 10px;
 }
 
 img {
@@ -21,6 +21,6 @@ div {
   margin: 20px;
 }
 .background {
- background-color: #E95C4B;
- padding: 10px;
+  background-color: #e95C4B;
+  padding: 10px;
 }
